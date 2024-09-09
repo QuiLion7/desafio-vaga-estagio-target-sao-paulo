@@ -3,10 +3,10 @@
 import {
   Monitor,
   Infinity,
-  Hash,
   PlusCircle,
-  Brain,
-  ToggleLeft,
+  BarChart,
+  DollarSign,
+  Repeat,
   MessagesSquare,
 } from "lucide-react";
 
@@ -20,11 +20,11 @@ import {
 
 const navigationLinks = [
   { label: "Inicio", path: "home", icon: Monitor },
-  { label: "Fibonacci", path: "fibonacci", icon: Infinity },
-  { label: "Contagem", path: "contagem", icon: Hash },
   { label: "Soma", path: "soma", icon: PlusCircle },
-  { label: "Lógica", path: "logica", icon: Brain },
-  { label: "Interruptor", path: "interruptor", icon: ToggleLeft },
+  { label: "Fibonacci", path: "fibonacci", icon: Infinity },
+  { label: "Faturamento", path: "faturamento", icon: BarChart },
+  { label: "Valor", path: "valor", icon: DollarSign },
+  { label: "Inversão", path: "inversao", icon: Repeat },
   { label: "Contato", path: "contact", icon: MessagesSquare },
 ];
 
