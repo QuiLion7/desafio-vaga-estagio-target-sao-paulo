@@ -171,7 +171,7 @@ export default function Faturamento() {
                 {!result.menorValor ? "Calcular" : countdown}
               </Button>
               <Link
-                href="https://github.com/seu-repositorio/faturamento-projeto"
+                href="https://github.com/QuiLion7/desafio-vaga-estagio-target-sao-paulo/blob/main/components/faturamento.tsx"
                 target="_blank"
                 rel="noopener noreferrer"
               >
