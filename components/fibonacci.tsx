@@ -74,7 +74,7 @@ export default function Fibonacci() {
             viewport={{ once: false, amount: 0.3 }}
             className="text-sm tracking-wide md:text-base lg:text-lg"
           >
-            1º Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o
+            2º Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o
             próximo valor sempre será a soma dos 2 valores anteriores (exemplo:
             0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na
             linguagem que desejar onde, informado um número, ele calcule a
